@@ -1,4 +1,8 @@
-### Hi there 👋
+### Data Engineering Graduate
+
+### Pygame game creator
+
+### 
 
 <!--
 **AdjunxLynx/AdjunxLynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
