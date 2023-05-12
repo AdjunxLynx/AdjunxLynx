@@ -1,6 +1,6 @@
-### Data Engineering Graduate
+### 🎓 Data Engineering Graduate
 
-### Pygame game creator
+### 💻 Pygame game creator
 
 ### 
 
