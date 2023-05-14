@@ -1,7 +1,7 @@
 # 
   
 <div id="header" align="center">
-  https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa
+  <https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa>
   <img src="https://media.[giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)" width="100"/>
 </div>
 
