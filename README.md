@@ -6,6 +6,8 @@
 
 ### 🎓 Data Engineering Graduate
 
+### 💬 Ask me about Apache PySpark/Kafka
+
 ### 💻 Pygame game creator
 
 ### 🐍 Python Enthusiast
