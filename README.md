@@ -1,8 +1,9 @@
-# <div id="header" align="center">
+# 
   
-  <iframe src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">via GIPHY</a></p>
+<div id="header" align="center">
+  https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa
+  <img src="https://media.[giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)" width="100"/>
 </div>
-
 
 ### 🎓 Data Engineering Graduate
 
