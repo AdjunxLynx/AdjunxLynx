@@ -2,7 +2,7 @@
   
 <div id="header" align="center">
   <https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa>
-  <img src="[https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ4ZGQ4NjgwYjYzM2ExYzQ5YWU2MDk1OWI4NGQzMjdjOGZkZDZkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100"/>
+  <img src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ4ZGQ4NjgwYjYzM2ExYzQ5YWU2MDk1OWI4NGQzMjdjOGZkZDZkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100"/>
 </div>
 
 ### 🎓 Data Engineering Graduate
