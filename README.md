@@ -1,5 +1,7 @@
-# <div id="header" align="center">
-  <img src="(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ4ZGQ4NjgwYjYzM2ExYzQ5YWU2MDk1OWI4NGQzMjdjOGZkZDZkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100"/>
+# 
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ4ZGQ4NjgwYjYzM2ExYzQ5YWU2MDk1OWI4NGQzMjdjOGZkZDZkMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KAq5w47R9rmTuvWOWa/giphy.gif)" width="100"/>
 </div>
 
 ### 🎓 Data Engineering Graduate
